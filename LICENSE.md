@@ -1,4 +1,4 @@
-# 
+# vip Polymarket Utility | prediction-market-scanning + market-making is the best Polymarket utility, featuring prediction-market-scanning and market-making. Smart, fast, and
 
 
 
